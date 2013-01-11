@@ -7,10 +7,10 @@
 cd ~/local.repository/bash.scripts/git.update
 git push origin master
 
-cd ~/local.repository/bash.scripts/git.update
+cd ~/local.repository/bash.scripts/git.update.remote.repos
 git push origin master
 
-cd ~/local.repository/bash.scripts/system.update.remote.repos
+cd ~/local.repository/bash.scripts/system.update
 git push origin master
 
 cd ~/local.repository/bash.scripts/SpiderOak.maintenance
