@@ -3,7 +3,7 @@
 
 ###############
 
-# Updating repos
+# Updating repos (lothar_m's repos)
 cd ~/local.repository/bash.scripts/git.update
 git push origin master
 
