@@ -15,3 +15,6 @@ git push origin master
 
 cd ~/local.repository/bash.scripts/SpiderOak.maintenance
 git push origin master
+
+cd ~/local.repository/bash.scripts/get.quotes.yahoo
+git push origin master
