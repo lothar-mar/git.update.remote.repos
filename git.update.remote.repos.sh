@@ -18,3 +18,6 @@ git push origin master
 
 cd ~/local.repository/bash.scripts/get.quotes.yahoo
 git push origin master
+
+cd ~/local.repository/dotfiles
+git push origin master
