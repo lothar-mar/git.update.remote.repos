@@ -16,6 +16,9 @@ git push origin master
 cd ~/local.repository/bash.scripts/vpn.scripts
 git push origin master
 
+cd ~/local.repository/abs
+git push origin master
+
 cd ~/local.repository/bash.scripts/get.quotes.yahoo
 git push origin master
 
